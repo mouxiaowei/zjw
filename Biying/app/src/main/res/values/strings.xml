@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Biying</string>
+    <string name="tit_name">必应词典</string>
+    <string name="m_name">必应</string>
+    <string name="today">TODAY</string>
+
+    <string name="word">avocado</string>
+    <string name="yinbiao">aaaaaa</string>
+    <string name="ciyi"> 鳄梨</string>
+    <string name="dayword">每日一词</string>
+    <string name="texttitle">This Baker Makes Bread With Adorable Art Hidden Inside</string>
+    <string name="textauthor">Mental Floss</string>
+
+</resources>
